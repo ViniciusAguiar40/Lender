@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444571821623",
+    "firebase_url": "https://bancofetin-f1418.firebaseio.com",
+    "project_id": "bancofetin",
+    "storage_bucket": "bancofetin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444571821623:android:9368f79cc91f441f",
+        "android_client_info": {
+          "package_name": "br.lender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444571821623-hahmcrtbqbcar6vb5tuid4fje48u3c12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOkVMyuNkGh1gTmwhUfU7H_EwI7OICfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444571821623-hahmcrtbqbcar6vb5tuid4fje48u3c12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
